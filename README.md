@@ -23,7 +23,7 @@ This Python script organizes files in a specified directory into folders based o
 
 - Clone this repository and navigate to the directory:
   ```bash
-  git clone <repo_url>
+  git clone https://github.com/ssambss/FileOrganizer.git
   cd <repo_folder>
 
 - The script can be run from the command line with several options for customization:
