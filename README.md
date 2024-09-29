@@ -11,7 +11,7 @@ This Python script organizes files in a specified directory into folders based o
 
 ## Requirements
 
-- Python 3.x
+- Python 3.10 or newer
 
 ## How to Use
 
