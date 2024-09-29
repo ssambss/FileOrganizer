@@ -28,7 +28,7 @@ This Python script organizes files in a specified directory into folders based o
 
 - The script can be run from the command line with several options for customization:
   ```bash
-  python cleaner.py [OPTIONS]
+  python cleaner.py --help
 
 ## Options
 - --root_dir: Path to the directory to clean. If not specified, the current working directory is used.
