@@ -32,10 +32,7 @@ def choose_file_types():
     'executable': ['.exe', '.msi', '.bat', '.ps1'],
     'presentation': ['.ppt', '.pptx', '.key'],
     'spreadsheet': ['.ods', '.xls', '.xlsx', '.csv'],
-    'database': ['.db', '.sql'],
-    'web': ['.html', '.css', '.js'],
-    'programming': ['.py', '.java', '.c', '.cpp', '.h', '.hpp', ''],
-    'system': ['.dll', '.sys', '.ini', '.json', '.xml', '.log', '.bak', '.tmp']
+    'programming': ['.py'],
     }
 
     if args.show_file_types:
