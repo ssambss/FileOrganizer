@@ -1,4 +1,4 @@
-# Directory Cleaner
+# File organizer
 
 This Python script organizes files in a specified directory into folders based on their file types. It helps users clean up and organize directories by categorizing files into predefined folders (e.g., text, images, videos, etc.). The script also allows users to customize the file types they want to organize and delete shortcut files (`.lnk`).
 
